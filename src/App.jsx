@@ -6,7 +6,7 @@ import Filters from "./components/Filters"
 import Footer from "./components/Footer"
 import "./index.css"
 
-const API_KEY = "2e5d11c"
+const API_KEY = import.meta.env.VITE_OMDB_API_KEY;
 
 // Random popular queries shown on first load
 const RANDOM_QUERIES = [
