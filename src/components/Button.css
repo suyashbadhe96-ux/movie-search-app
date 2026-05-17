@@ -1,0 +1,15 @@
+/* Button.css */
+
+.search-btn {
+  padding: 10px 20px;
+  background-color: #ffffff;
+  color: rgb(0, 0, 0);
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+  height:50px;
+}
+
+.search-btn:hover {
+  background-color: #333;
+}
