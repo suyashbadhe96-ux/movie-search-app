@@ -23,8 +23,8 @@ A movie search app built with React and the OMDB API.
 ## Setup
 
 ```bash
-git clone https://github.com/your-username/cinemex.git
-cd cinemex
+git clone https://github.com/suyashbadhe96-ux/movie-search-app.git
+cd movie-search-app
 npm install
 npm run dev
 ```
